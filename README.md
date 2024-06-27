@@ -17,7 +17,7 @@ https://github.com/MedhajSarang/2048-Game-.git
 ### Running the Game
 Navigate to the project directory and run the following command:
 
-python game.py
+python 2048.py
 
 ### Gameplay
 Use the w, a, s, d to move the tiles.
